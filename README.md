@@ -22,6 +22,7 @@ BGPreader is a command line tool.
     - Find out what ``R|R``,``R|E``, ``R|B``, ``U|A`` and ``U|W`` correspond to? You need to be able to explain the BGP concepts behind each combination of ``dump-type`` and ``elem-type``.
     - Each line is composed of other elements. What are they? What do they represent? 
     - What is a full-feed and how to identify one **directly** from the BGP data? Explain your methodology.
+    - What can you say about IPv4 and IPv6? Look at the session identifiers and at the prefixes announced.
 
 ## Get familiar with pyBGPStream
 
